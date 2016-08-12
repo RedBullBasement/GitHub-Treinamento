@@ -19,4 +19,14 @@
 2. brew install curl
 3. sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
+#Criando um novo Repositorio, dentro da pasta(SEM GIT CONFIGURADO) já criada com o conteudo
+echo "# teste" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:afonso/teste.git
+git push -u origin master
 
+#Criando um novo Repositorio, dentro da pasta(COM GIT CONFIGURADO) já criada com o conteudo
+git remote add origin git@github.com:afonso/teste.git
+git push -u origin master
