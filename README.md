@@ -24,9 +24,9 @@
 - git init
 - git add README.md
 - git commit -m "first commit"
-- git remote add origin git@github.com:[afonso]/[teste].git
+- git remote add origin git@github.com:[usuario]/[repositorio].git
 - git push -u origin master
 
 #Criando um novo Repositorio, dentro da pasta(COM GIT CONFIGURADO) já criada com o conteudo
-- git remote add origin git@github.com:[afonso]/[teste].git
+- git remote add origin git@github.com:[usuario]/[repositorio].git
 - git push -u origin master
