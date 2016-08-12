@@ -4,6 +4,6 @@
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * http://redbullbasement.com
 
-##Instalando no Mac
+##Instalando no Mac - Colar no Terminal
 * /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 * brew install git
