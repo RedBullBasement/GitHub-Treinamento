@@ -7,3 +7,9 @@
 ##Instalando no Mac - Colar no Terminal
 1. /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 2. brew install git
+
+###Deixando terminal bonito no Mac - Colar no Terminal
+1. brew install zsh
+2. brew install curl
+3. sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
